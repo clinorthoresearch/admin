@@ -11,7 +11,6 @@ mkdir data
 mkdir notebooks
 mkdir references
 mkdir reports
-mkdir src
 cd data
 mkdir raw
 mkdir internal
@@ -22,11 +21,14 @@ mkdir abstracts
 mkdir manuscript
 mkdir tables_figures
 cd ..
+cd notebooks
+mkdir src
 cd src
 mkdir data
 mkdir features
 mkdir models
 mkdir visualization
+cd ..
 cd ..
 cd ..
 echo "...folder structure built"
