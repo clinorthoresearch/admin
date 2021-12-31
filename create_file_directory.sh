@@ -16,11 +16,17 @@ cd data
 mkdir raw
 mkdir internal
 mkdir processed
+echo 'placeholder for github file structure' >raw/placeholder.txt
+echo 'placeholder for github file structure' >internal/placeholder.txt
+echo 'placeholder for github file structure' >processed/placeholder.txt
 cd ..
 cd reports
 mkdir abstracts
 mkdir manuscript
 mkdir tables_figures
+echo 'placeholder for github file structure' >abstracts/placeholder.txt
+echo 'placeholder for github file structure' >manuscript/placeholder.txt
+echo 'placeholder for github file structure' >tables_figures/placeholder.txt
 cd ..
 cd notebooks
 mkdir src
@@ -29,6 +35,9 @@ mkdir data
 mkdir features
 mkdir models
 mkdir visualization
+echo 'placeholder for github file structure' >data/placeholder.txt
+echo 'placeholder for github file structure' >features/placeholder.txt
+echo 'placeholder for github file structure' >visualization/placeholder.txt
 cd ..
 cd ..
 cd ..
