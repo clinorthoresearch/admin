@@ -11,6 +11,7 @@ cd "$1"
 mkdir data
 mkdir notebooks
 mkdir references
+echo 'placeholder for github file structure' >references/placeholder.txt
 mkdir reports
 cd data
 mkdir raw
