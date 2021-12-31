@@ -30,4 +30,5 @@ echo 'placeholder for github file structure' >abstracts/placeholder.txt
 echo 'placeholder for github file structure' >manuscript/placeholder.txt
 echo 'placeholder for github file structure' >tables_figures/placeholder.txt
 cd ..
+cd ..
 echo "...folder structure built"
