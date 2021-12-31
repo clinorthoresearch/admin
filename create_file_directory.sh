@@ -10,10 +10,10 @@ mkdir "$1"
 cd "$1"
 mkdir data
 mkdir notebooks
-echo 'placeholder for github file structure' >notebooks/placeholder.txt
 mkdir references
-echo 'placeholder for github file structure' >references/placeholder.txt
 mkdir reports
+echo 'placeholder for github file structure' >notebooks/placeholder.txt
+echo 'placeholder for github file structure' >references/placeholder.txt
 cd data
 mkdir raw
 mkdir internal
