@@ -2,12 +2,12 @@
 # This script builds a standard file structure
 # To run it, go to terminal and type: bash create_file_directory.sh new_file_name
 # Or can run it directly from github using: 
-# bash <(curl -LJ https://raw.githubusercontent.com/clinorthoresearch/admin/master/create_file_directory.sh) project_name
+# bash <(curl -LJ https://raw.githubusercontent.com/clinorthoresearch/admin/master/create_file_directory.sh)
 
 
 echo "Building folder structure..."
-mkdir "$1"
-cd "$1"
+#mkdir "$1"
+#cd "$1"
 mkdir data
 mkdir notebooks
 mkdir references
